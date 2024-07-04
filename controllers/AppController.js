@@ -1,3 +1,4 @@
+/* eslint-disable import/extensions */
 import redisClient from '../utils/redis.js';
 import dbClient from '../utils/db.js';
 
